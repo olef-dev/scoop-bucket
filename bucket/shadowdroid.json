@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Drive Android apps from the command line with streaming JSON events.",
   "homepage": "https://shadowdroid.dev",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/shadowdroid-dev/shadowdroid/releases/download/v2.0.6/shadowdroid-x86_64-pc-windows-msvc.zip",
-      "hash": "7fe85a218e786dae03c3a5d63848008a6d311afe8e001ab8271b702ecf131ed1"
+      "url": "https://github.com/shadowdroid-dev/shadowdroid/releases/download/v2.0.7/shadowdroid-x86_64-pc-windows-msvc.zip",
+      "hash": "404639ca9daf3b0b7b31bd2a9f4bfcefd464b25c46e4f1d5fe4d8fa4d8d0cdd5"
     }
   },
   "bin": "shadowdroid.exe",
